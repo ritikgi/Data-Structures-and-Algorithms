@@ -29,22 +29,25 @@ class GFG {
 
 class Solution {
     int MissingNumber(int arr[], int n) {
-        // Sort and search
-        // Arrays.sort(arr);
-        // int missing=0;
-        // for(int i =0;i<arr.length;i++)
-        // {
-        //     if(arr[i] != i+1)
-        //     {
-        //         missing= i+1;
-        //     }
-        // }
-        // return missing;
+        /*
+        Sort and search
+        Arrays.sort(arr);
+        int missing=0;
+        for(int i =0;i<arr.length;i++)
+        {
+            if(arr[i] != i+1)
+            {
+                missing= i+1;
+            }
+        }
+        return missing;
+        */
+        
         
         //Better Approach HashMap method we can use 
          
         
-        //best approach --> sum of natural number
+        //better approach --> sum of natural number but integer Overflow can be possible
         int realSum = n*(n+1)/2;
         int currSum = 0;
         for(int i =0; i<arr.length;i++)
@@ -52,6 +55,15 @@ class Solution {
             currSum += arr[i];
         }
         return realSum-currSum;
+        
+        
+        // Best Approach - XOR approach 
+        
+        
+        
+        
+        
+        
         
         
         
