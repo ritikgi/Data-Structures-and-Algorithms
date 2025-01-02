@@ -35,3 +35,28 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+
+
+
+# Intuition
+The key idea is that we can maintain two variables:
+
+- `currSum`: Keeps track of the current sum of the subarray we're considering.
+- `maxSum`: Stores the maximum sum encountered so far.
+
+As we iterate through the array, we continuously update the `currSum` by adding the current element. If at any point `currSum` becomes negative, it is reset to zero because a negative sum would reduce the value of any subsequent subarrays. We also update `maxSum` to keep track of the highest value of `currSum`.
+
+# Approach
+1. Initialize `maxSum` to the first element of the array and `currSum` to 0.
+2. Iterate through the array:
+   - Add the current element to `currSum`.
+   - Update `maxSum` to be the larger of `currSum` and `maxSum`.
+   - If `currSum` becomes negative, reset it to 0.
+3. Return `maxSum` after the loop finishes.
+
+This approach ensures that we find the maximum sum of a contiguous subarray in a single pass through the array.
+
+# Complexity
+- **Time complexity**: $$O(n)$$, where $$n$$ is the number of elements in the array. We are iterating through the array once.
+- **Space complexity**: $$O(1)$$. We only use a constant amount of extra space to store the `currSum` and `maxSum`.
+
