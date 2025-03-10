@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
