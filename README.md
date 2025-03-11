@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Backtracking
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
