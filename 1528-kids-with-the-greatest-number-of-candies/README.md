@@ -43,3 +43,58 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 	<li><code>1 &lt;= candies[i] &lt;= 100</code></li>
 	<li><code>1 &lt;= extraCandies &lt;= 50</code></li>
 </ul>
+<br><br>
+
+# Intuition
+The problem requires us to determine if a child, after receiving extra candies, can have the greatest number of candies among all kids.  
+The key observation is that the child only needs to meet or exceed the **maximum** number of candies initially present.
+
+# Approach
+1. **Find the Maximum Candies**  
+   - First, determine the maximum number of candies any child currently has.  
+   - This can be done in **one pass** through the `candies` array.  
+
+2. **Check Each Kid's Potential**  
+   - Iterate through the `candies` array again.  
+   - For each child, check if their current candies **plus** the extra candies is **greater than or equal to** the previously found maximum.  
+   - If so, mark them as `true` in the result list; otherwise, mark them as `false`.
+
+3. **Optimizations Used**  
+   - Using `Math.max()` to simplify the maximum-finding loop.  
+   - Using `res.add(candies[i] + extraCandies >= max);` instead of an explicit `if-else`, making the code cleaner and more efficient.
+
+# Complexity
+- **Time complexity:**  
+  - Finding the maximum takes **O(n)**.  
+  - Iterating again to check conditions takes **O(n)**.  
+  - Hence, the overall complexity is **O(n) + O(n) = O(n)**.
+
+- **Space complexity:**  
+  - The output list `res` requires **O(n)** space, as we store a Boolean value for each child.  
+  - No additional data structures are used apart from a few variables.  
+  - Thus, the space complexity is **O(n)**.
+
+# Code
+```java
+import java.util.*;
+
+class Solution {
+    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+        int max = 0;
+        int n = candies.length;
+        List<Boolean> res = new ArrayList<>(n);
+
+        // Step 1: Find the maximum candies any kid currently has
+        for (int candy : candies) {
+            max = Math.max(max, candy);
+        }
+
+        // Step 2: Check if each kid can have the max candies
+        for (int candy : candies) {
+            res.add(candy + extraCandies >= max);
+        }
+
+        return res;
+    }
+}
+
