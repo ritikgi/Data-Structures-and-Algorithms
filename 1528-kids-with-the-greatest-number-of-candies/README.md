@@ -81,19 +81,21 @@ import java.util.*;
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int max = 0;
-        int n = candies.length;
-        List<Boolean> res = new ArrayList<>(n);
-
-        // Step 1: Find the maximum candies any kid currently has
-        for (int candy : candies) {
+        List<Boolean> res = new ArrayList<Boolean>(candies.length);
+        for(int candy : candies){
+            // if(candy > max){
+            //     max = candy;
+            // } instead of this use the below 
             max = Math.max(max, candy);
         }
-
-        // Step 2: Check if each kid can have the max candies
-        for (int candy : candies) {
-            res.add(candy + extraCandies >= max);
+        for(int i =0; i<candies.length; i++){
+            // if (candies[i] + extraCandies >= max) {
+            //     res.add(true);
+            // } else {
+            //     res.add(false);
+            // } instead of this use the below
+            res.add(candies[i] + extraCandies >= max);
         }
-
         return res;
     }
 }
