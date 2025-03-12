@@ -9,6 +9,7 @@
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
