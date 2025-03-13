@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/ritikgi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -66,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 ## Sorting
 |  |
