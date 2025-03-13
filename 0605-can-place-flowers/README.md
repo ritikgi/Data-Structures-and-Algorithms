@@ -20,7 +20,7 @@
 	<li><code>0 &lt;= n &lt;= flowerbed.length</code></li>
 </ul>
 <br>
-<br>
+
 # Intuition
 The problem requires determining whether we can plant `n` flowers in a given `flowerbed` without violating the rule that no two flowers can be adjacent. Since a flower can only be planted in an empty spot (`0`), we check whether both its left and right neighbors are also empty (or out of bounds). By greedily placing flowers whenever possible, we maximize the number of flowers planted efficiently.
 
