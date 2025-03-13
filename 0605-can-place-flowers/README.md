@@ -19,3 +19,49 @@
 	<li>There are no two adjacent flowers in <code>flowerbed</code>.</li>
 	<li><code>0 &lt;= n &lt;= flowerbed.length</code></li>
 </ul>
+<br>
+<br>
+# Intuition
+The problem requires determining whether we can plant `n` flowers in a given `flowerbed` without violating the rule that no two flowers can be adjacent. Since a flower can only be planted in an empty spot (`0`), we check whether both its left and right neighbors are also empty (or out of bounds). By greedily placing flowers whenever possible, we maximize the number of flowers planted efficiently.
+
+# Approach
+1. Initialize a `count` variable to track the number of flowers placed.
+2. Iterate through the `flowerbed` array.
+3. At each index `i`, check if the current spot is `0` and if both its previous and next spots are also `0` (or out of bounds).
+4. If the conditions allow planting, place a flower (`flowerbed[i] = 1`), increment `count`, and move to the next non-adjacent position (`i++`).
+5. If `count` reaches or exceeds `n`, return `true` early.
+6. If the loop completes and `count < n`, return `false`.
+
+# Complexity
+- **Time complexity:**  
+  - $$O(n)$$: We iterate through the `flowerbed` array once, modifying it in-place.
+- **Space complexity:**  
+  - $$O(1)$$: No extra space is used apart from a few integer variables.
+
+# Code
+```java
+class Solution {
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+        int count = 0;
+        int length = flowerbed.length;
+        for (int i = 0; i < length; i++) {
+            if (flowerbed[i] == 0) {
+                boolean prevEmpty = (i == 0 || flowerbed[i - 1] == 0);
+                boolean nextEmpty = (i == length - 1 || flowerbed[i + 1] == 0);
+
+                if (prevEmpty && nextEmpty) {
+                    flowerbed[i] = 1;
+                    count++;
+
+                    if (count >= n) {
+                        return true; 
+                    }
+
+                    i++;
+                }
+            }
+        }
+        return count >= n; 
+    }
+}
+
