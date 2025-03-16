@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritikgi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0238-product-of-array-except-self](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
