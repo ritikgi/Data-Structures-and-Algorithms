@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ritikgi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
@@ -80,6 +82,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
