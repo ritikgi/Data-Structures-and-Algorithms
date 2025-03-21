@@ -15,11 +15,13 @@
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -90,6 +93,7 @@
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
