@@ -12,6 +12,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
