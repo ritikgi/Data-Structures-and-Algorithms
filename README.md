@@ -13,6 +13,7 @@
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0605-can-place-flowers](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1319-unique-number-of-occurrences](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
@@ -106,9 +107,15 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
