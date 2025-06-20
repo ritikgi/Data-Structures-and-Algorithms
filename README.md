@@ -18,6 +18,7 @@
 | [1095-two-city-scheduling](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1095-two-city-scheduling) |
 | [1319-unique-number-of-occurrences](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1331-path-with-maximum-gold) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -28,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [1319-unique-number-of-occurrences](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
