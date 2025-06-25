@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
+| [0969-number-of-recent-calls](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -153,4 +154,12 @@
 | [0394-decode-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
