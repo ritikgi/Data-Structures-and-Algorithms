@@ -47,6 +47,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ritikgi/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
