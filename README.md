@@ -68,6 +68,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 ## Design
 |  |
@@ -168,4 +169,16 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0969-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
