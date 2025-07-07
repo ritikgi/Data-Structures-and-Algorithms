@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ritikgi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ritikgi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [1319-unique-number-of-occurrences](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1319-unique-number-of-occurrences) |
