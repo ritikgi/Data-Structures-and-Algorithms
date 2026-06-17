@@ -47,6 +47,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ritikgi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
