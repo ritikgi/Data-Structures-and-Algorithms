@@ -67,6 +67,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritikgi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Depth-First Search
 |  |
@@ -75,6 +76,7 @@
 | [0419-battleships-in-a-board](https://github.com/ritikgi/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0904-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -185,6 +187,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0904-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -197,5 +200,10 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/0904-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1544-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ritikgi/Data-Structures-and-Algorithms/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
